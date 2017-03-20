@@ -1,0 +1,1 @@
+g++   -g   CMakeFiles/dragon.dir/threedragon.cpp.o  -o ../../bin/dragon  -L/home/blue/work/forfun/forfun/lib -rdynamic 
